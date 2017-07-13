@@ -1,0 +1,35 @@
+h1 {
+    color: blue;
+    font-family: Arial;
+}
+
+h2 {
+    color: #f442d1;
+    font-style: italic;
+}
+
+p, h3 {
+    color: rgb(255, 0, 0);
+    text-align: right;
+}
+
+  #primer_parrafo{
+    text-align: justify;
+    font-family: Georgia, serif;
+  }
+
+h4 {
+    font-weight: bold;
+    color: #f442d1;
+}
+   
+table {
+    table-layout: auto; 
+    border-spacing: 10 px;
+    border-color: blue;
+}
+
+h5, h6 {
+    text-align: justify;
+    font-family: "Times New Roman", Times, serif;
+}
